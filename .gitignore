@@ -1,0 +1,25 @@
+*.log
+*.swp
+/.env
+/.env.*
+.pytest_cache
+__pycache__
+.idea
+.vscode
+
+# PyPi build files
+.coverage
+/build
+/dist
+/compile
+*.egg-info
+
+# Local development files
+/venv/
+/venv_*/
+/dev_*.py
+/*.sqlite*
+/*.db
+/privex/db
+/out
+

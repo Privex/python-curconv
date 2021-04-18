@@ -1,0 +1,6 @@
+idna<3
+httpx[http2]
+privex-helpers[cache]>=3.0
+privex-loghelper
+python-dotenv
+async-property
